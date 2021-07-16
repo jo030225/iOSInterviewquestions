@@ -51,6 +51,8 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
 - App thinning에 대해서 설명하시오.
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
+- ViewController의 생명주기를 설명하시오.
+- TableView와 CollectionView의 차이점을 설명하시오.
 
 ## Autolayout
 - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
